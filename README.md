@@ -2,6 +2,8 @@
 
 I am studying Data Science at the Skillfactory school
 
+I am working on a pet project to create an aggregator website as an analyst
+
 <!--
 **OlesyaNori/OlesyaNori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
